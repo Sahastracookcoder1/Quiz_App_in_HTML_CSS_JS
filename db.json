@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Angular 2 integrates easily with NativeScript, allowing you to code your native app in a . . . . . . . . . style that can run on any mobile device platform?",
+    "choice1": "declarative",
+    "choice2": "imperative",
+    "choice3": "interrogative",
+    "choice4": "exclamatory",
+    "answer": 1
+  },
+  {
+    "question": "Angular 2 components can be described using ________is a way to do some meta-programming.",
+    "choice1": "controllers, controller",
+    "choice2": "Loaders, loader",
+    "choice3": "typescripts, typescript",
+    "choice4": "decorators, decorator'>",
+    "answer": 4
+  },
+  {
+    "question": "The ______ directive substitutes the normal href property and makes it easier to work with route links in Angular 2.",
+    "choice1": "RouterLink",
+    "choice2": "RouterRend",
+    "choice3": "RouterLike",
+    "choice4": "RouterLayer",
+    "answer": 1
+  },
+  {
+    "question": " Since Angular 2 defines a set of built-in directives, the . . . . . . . . method passes them in a similar way in order to make them available in the entire application in order to prevent us from code duplications.",
+    "choice1": "startup",
+    "choice2": "bootstrap",
+    "choice3": "constructor",
+    "choice4": "initialization",
+    "answer": 2
+  },
+  {
+    "question": " What are the new features of Angular2?",
+    "choice1": "Component-Based",
+    "choice2": "Directives",
+    "choice3": "Dependency Injection",
+    "choice4": "All of these",
+    "answer": 1
+  },
+  {
+    "question": " What is the correct JavaScript syntax to change the content of the HTML element below?\n\n<p id=\"demo\">This is a demonstration.</p>",
+    "choice1": "document.getElementByName(\"p\").innerHTML = \"Hello World!\";",
+    "choice2": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+    "choice3": "document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+    "choice4": "#demo.innerHTML = \"Hello World!\";",
+    "answer": 2
+  },
+  {
+    "question": "function bar() {\n   return foo;\n   foo = 10;\n   function foo() {}\n   var foo = ´11´;\n}\nalert(typeof bar());\n\n \n\nWhat message is displayed in the alert box?",
+    "choice1": "number",
+    "choice2": "function",
+    "choice3": "undefined",
+    "choice4": "none",
+    "answer": 2
+  }
+]
+
